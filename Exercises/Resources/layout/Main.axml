@@ -23,6 +23,11 @@
             android:id="@+id/button1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent" />
+        <Button
+            android:text="Rate"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/button3" />
     </LinearLayout>
     <TextView
         android:text="Large Text"
@@ -31,4 +36,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
         android:gravity="center" />
+    <Button
+        android:text="VAATA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4" />
 </LinearLayout>
